@@ -1,4 +1,6 @@
-public class B{
-  String nombreB = "Silvia";
-  int edad = 26;
+package b;
+
+public class B {
+    public String nombreB = "Maria Dolores";
+    public int edadB = 26;
 }

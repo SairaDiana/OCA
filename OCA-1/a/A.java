@@ -1,9 +1,10 @@
+package a;
+
 import b.B;
-public class A{
-  String nombre;
-  int edad;
-  public static void main(String[] args){
-    B objeto1 = new B();
-    System.out.println(objeto1.nombreB);
-  }
+
+public class A {
+    public static void main(String[] gus) {
+        B objeto = new B();
+        System.out.println(objeto.nombreB);
+    }
 }
